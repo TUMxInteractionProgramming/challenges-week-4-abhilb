@@ -138,6 +138,10 @@ li.selected {
     border-left: 4px solid #3F51B5;
 }
 
+i {
+    font-size: 24px;
+}
+
 /* TAB BAR */
 
 /* #5 #smileys #lazy: we can reuse most of the tab-bar's styles for the chat-bar */
